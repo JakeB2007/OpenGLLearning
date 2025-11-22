@@ -1,0 +1,3 @@
+C:/Cpp Learning/OpenGL Learning/build/CMakeFiles/GameProject.dir
+C:/Cpp Learning/OpenGL Learning/build/CMakeFiles/edit_cache.dir
+C:/Cpp Learning/OpenGL Learning/build/CMakeFiles/rebuild_cache.dir

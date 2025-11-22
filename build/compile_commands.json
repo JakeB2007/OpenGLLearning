@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Cpp Learning/OpenGL Learning/build",
+  "command": "C:\\PROGRA~2\\MICROS~3\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\GameProject.dir\\main.cpp.obj /FdCMakeFiles\\GameProject.dir\\ /FS -c \"C:\\Cpp Learning\\OpenGL Learning\\main.cpp\"",
+  "file": "C:/Cpp Learning/OpenGL Learning/main.cpp",
+  "output": "C:/Cpp Learning/OpenGL Learning/build/CMakeFiles/GameProject.dir/main.cpp.obj"
+}
+]
